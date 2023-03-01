@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-octo-adventure/static/css/main.7f962f14.css",
+    "main.js": "/super-octo-adventure/static/js/main.f170ac8f.js",
+    "static/js/787.183d3aee.chunk.js": "/super-octo-adventure/static/js/787.183d3aee.chunk.js",
+    "index.html": "/super-octo-adventure/index.html",
+    "main.7f962f14.css.map": "/super-octo-adventure/static/css/main.7f962f14.css.map",
+    "main.f170ac8f.js.map": "/super-octo-adventure/static/js/main.f170ac8f.js.map",
+    "787.183d3aee.chunk.js.map": "/super-octo-adventure/static/js/787.183d3aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f962f14.css",
+    "static/js/main.f170ac8f.js"
+  ]
+}
